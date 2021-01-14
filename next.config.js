@@ -1,4 +1,4 @@
-/* module.exports = {
+module.exports = {
 async redirects() {
     return [
       {
@@ -8,4 +8,4 @@ async redirects() {
       }
     ]
 }
-} */
+}
